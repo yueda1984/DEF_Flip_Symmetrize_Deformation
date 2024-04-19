@@ -1,7 +1,7 @@
 /*
 	Flip-Symmetrize Deformation
 
-	Toon Boom Harmony dialog script for mirror, flip or symmetrize envelope deformers.
+	A Toon Boom Harmony shelf script for mirror, flip or symmetrize envelope deformers.
 	The script can also flip curve and bone deformers. Tested on Harmony Premium 14 and up.
 	
 		v1.1 - Layout adjustment.
